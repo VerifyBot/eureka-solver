@@ -1,0 +1,11 @@
+# sensitive files
+data/accounts.json
+data/stats.json
+data/could_do_ratio.json
+app/creds.json
+
+# pycharm
+venv/
+.idea/
+.idea_modules/
+__pycache__/
